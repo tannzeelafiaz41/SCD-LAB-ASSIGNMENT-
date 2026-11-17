@@ -1,0 +1,4 @@
+About this project:
+course: SCD
+Assignment: SCD LAB 2
+Purpose:learning github and gitbash
